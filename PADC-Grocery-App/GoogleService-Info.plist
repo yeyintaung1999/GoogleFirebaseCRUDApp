@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>929615433297-6mg549j1872m1sig05vmi9iv42usiqmf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.929615433297-6mg549j1872m1sig05vmi9iv42usiqmf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsoJn_vwYXeYwvvm4qnQkv6MuMcSDFkbw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>929615433297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pcent.PADC-Grocery-App</string>
+	<key>PROJECT_ID</key>
+	<string>padc-grocery-app-9e039</string>
+	<key>STORAGE_BUCKET</key>
+	<string>padc-grocery-app-9e039.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:929615433297:ios:8117a09eaa36c8df12f270</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Please Allow to Use Photo Library</string>
+	<key>DATABASE_URL</key>
+	<string>https://padc-grocery-app-9e039-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
